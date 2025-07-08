@@ -39,6 +39,8 @@
 丰顺综合,http://blog.cqshushu.com/guangdong.php?id=fszh&token=14585d5a4247045df1d2412e2ac9df5d
 汕头综合,http://blog.cqshushu.com/guangdong.php?id=stzh&token=14585d5a4247045df1d2412e2ac9df5d
 汕头生活,http://blog.cqshushu.com/guangdong.php?id=stsh&token=14585d5a4247045df1d2412e2ac9df5d
+汕尾综合,http://blog.cqshushu.com/guangdong.php?id=swzh&token=14585d5a4247045df1d2412e2ac9df5d
+汕尾生活,http://blog.cqshushu.com/guangdong.php?id=swsh&token=14585d5a4247045df1d2412e2ac9df5d
 潮州综合,http://blog.cqshushu.com/guangdong.php?id=czzh&token=14585d5a4247045df1d2412e2ac9df5d
 潮州民生,http://blog.cqshushu.com/guangdong.php?id=czms&token=14585d5a4247045df1d2412e2ac9df5d
 揭阳综合,http://blog.cqshushu.com/guangdong.php?id=jytv1&token=14585d5a4247045df1d2412e2ac9df5d
