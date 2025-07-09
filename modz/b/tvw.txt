@@ -54,3 +54,6 @@
 清远文旅,http://blog.cqshushu.com/guangdong.php?id=qywl&token=14585d5a4247045df1d2412e2ac9df5d
 肇庆综合,http://blog.cqshushu.com/guangdong.php?id=zqzh&token=14585d5a4247045df1d2412e2ac9df5d
 肇庆生活,http://blog.cqshushu.com/guangdong.php?id=zqsh&token=14585d5a4247045df1d2412e2ac9df5d
+凤凰中文,http://blog.cqshushu.com/guangdong.php?id=fhzw&token=14585d5a4247045df1d2412e2ac9df5d
+凤凰资讯,http://blog.cqshushu.com/guangdong.php?id=fhzx&token=14585d5a4247045df1d2412e2ac9df5d
+凤凰香港,http://blog.cqshushu.com/guangdong.php?id=fhhk&token=14585d5a4247045df1d2412e2ac9df5d
