@@ -35,12 +35,10 @@ http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
 http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="135" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道", CCTV17
 http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/CCTV世界地理.png" group-title="央视频道", CCTV世界地理
-http://hmfs.f3322.net:3388/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-id="CCTV央视台球" tvg-logo="https://tb.zbds.top/logo/CCTV央视台球.png" group-title="央视频道", CCTV央视台球
 https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/CCTV女性时尚.png" group-title="央视频道", CCTV女性时尚
-http://111.61.236.247:9081/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-id="CCTV女性时尚" tvg-logo="https://tb.zbds.top/logo/CCTV女性时尚.png" group-title="央视频道", CCTV女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="CCTV怀旧剧场" tvg-logo="https://tb.zbds.top/logo/CCTV怀旧剧场.png" group-title="央视频道", CCTV怀旧剧场
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="CCTV第一剧场" tvg-logo="https://tb.zbds.top/logo/CCTV第一剧场.png" group-title="央视频道", CCTV第一剧场
@@ -167,8 +165,8 @@ http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authi
 http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-name="苏州4K" tvg-id="苏州4K" tvg-logo="https://tb.zbds.top/logo/苏州4K.png" group-title="卫视频道", 苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/CHC动作电影.png" group-title="电影频道", CHC动作电影
-http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://tb.zbds.top/logo/CHC动作电影.png" group-title="电影频道", CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="3" tvg-logo="https://tb.zbds.top/logo/CHC家庭影院.png" group-title="电影频道", CHC家庭影院
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 #EXTINF:-1 tvg-name="凤凰电影" tvg-id="凤凰电影" tvg-logo="https://tb.zbds.top/logo/凤凰电影.png" group-title="电影频道", 凤凰电影
@@ -221,8 +219,6 @@ https://goodiptv.club/douyu/2164691
 https://goodiptv.club/douyu/10155359
 #EXTINF:-1 tvg-name="哈利影视" tvg-id="哈利影视" tvg-logo="https://tb.zbds.top/logo/哈利影视.png" group-title="电影频道", 哈利影视
 https://goodiptv.club/douyu/8475821
-#EXTINF:-1 tvg-name="哈尔滨影视" tvg-id="哈尔滨影视" tvg-logo="https://tb.zbds.top/logo/哈尔滨影视.png" group-title="电影频道", 哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="唯爱经典影视" tvg-id="唯爱经典影视" tvg-logo="https://tb.zbds.top/logo/唯爱经典影视.png" group-title="电影频道", 唯爱经典影视
 https://goodiptv.club/douyu/7582564
 #EXTINF:-1 tvg-name="喜人电影" tvg-id="喜人电影" tvg-logo="https://tb.zbds.top/logo/喜人电影.png" group-title="电影频道", 喜人电影
@@ -255,6 +251,8 @@ https://goodiptv.club/douyu/8362978
 https://goodiptv.club/douyu/9480648
 #EXTINF:-1 tvg-name="影视笑工场" tvg-id="影视笑工场" tvg-logo="https://tb.zbds.top/logo/影视笑工场.png" group-title="电影频道", 影视笑工场
 https://goodiptv.club/douyu/10298846
+#EXTINF:-1 tvg-name="影视英雄汇" tvg-id="影视英雄汇" tvg-logo="https://tb.zbds.top/logo/影视英雄汇.png" group-title="电影频道", 影视英雄汇
+https://goodiptv.club/douyu/10240495
 #EXTINF:-1 tvg-name="影视集装箱" tvg-id="影视集装箱" tvg-logo="https://tb.zbds.top/logo/影视集装箱.png" group-title="电影频道", 影视集装箱
 https://goodiptv.club/douyu/8651489
 #EXTINF:-1 tvg-name="怪兽马提尼电影" tvg-id="怪兽马提尼电影" tvg-logo="https://tb.zbds.top/logo/怪兽马提尼电影.png" group-title="电影频道", 怪兽马提尼电影
@@ -305,10 +303,10 @@ https://goodiptv.club/douyu/9323164
 http://live.metshop.top/huya/21059578?cdn=alicdn
 #EXTINF:-1 tvg-name="电影先锋V" tvg-id="电影先锋V" tvg-logo="https://tb.zbds.top/logo/电影先锋V.png" group-title="电影频道", 电影先锋V
 https://goodiptv.club/douyu/8711212
-#EXTINF:-1 tvg-name="电影八点档" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影八点档.png" group-title="电影频道", 电影八点档
-http://live.metshop.top/huya/880261?cdn=alicdn
 #EXTINF:-1 tvg-name="电影冷知识" tvg-id="电影冷知识" tvg-logo="https://tb.zbds.top/logo/电影冷知识.png" group-title="电影频道", 电影冷知识
 https://goodiptv.club/douyu/9660835
+#EXTINF:-1 tvg-name="电影刘德华" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影刘德华.png" group-title="电影频道", 电影刘德华
+http://live.metshop.top/huya/11342424?cdn=alicdn
 #EXTINF:-1 tvg-name="电影刘油果" tvg-id="电影刘油果" tvg-logo="https://tb.zbds.top/logo/电影刘油果.png" group-title="电影频道", 电影刘油果
 https://goodiptv.club/douyu/3985805
 #EXTINF:-1 tvg-name="电影功夫片" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影功夫片.png" group-title="电影频道", 电影功夫片
@@ -325,14 +323,14 @@ https://goodiptv.club/douyu/549693
 https://goodiptv.club/douyu/8884074
 #EXTINF:-1 tvg-name="电影战争片" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影战争片.png" group-title="电影频道", 电影战争片
 http://live.metshop.top/huya/21059574?cdn=alicdn
-#EXTINF:-1 tvg-name="电影梁家辉" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影梁家辉.png" group-title="电影频道", 电影梁家辉
-http://live.metshop.top/huya/11342429?cdn=alicdn
 #EXTINF:-1 tvg-name="电影漩涡" tvg-id="电影漩涡" tvg-logo="https://tb.zbds.top/logo/电影漩涡.png" group-title="电影频道", 电影漩涡
 https://goodiptv.club/douyu/8706350
-#EXTINF:-1 tvg-name="电影犯罪片" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影犯罪片.png" group-title="电影频道", 电影犯罪片
-http://live.metshop.top/huya/11352974?cdn=alicdn
 #EXTINF:-1 tvg-name="电影笔记" tvg-id="电影笔记" tvg-logo="https://tb.zbds.top/logo/电影笔记.png" group-title="电影频道", 电影笔记
 https://goodiptv.club/douyu/9636034
+#EXTINF:-1 tvg-name="电影谍战" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影谍战.png" group-title="电影频道", 电影谍战
+http://live.metshop.top/huya/21059585?cdn=alicdn
+#EXTINF:-1 tvg-name="电影贺岁" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/电影贺岁.png" group-title="电影频道", 电影贺岁
+http://live.metshop.top/huya/11601971?cdn=alicdn
 #EXTINF:-1 tvg-name="电影迷小雅" tvg-id="电影迷小雅" tvg-logo="https://tb.zbds.top/logo/电影迷小雅.png" group-title="电影频道", 电影迷小雅
 https://goodiptv.club/douyu/9639225
 #EXTINF:-1 tvg-name="电影黑匣子" tvg-id="电影黑匣子" tvg-logo="https://tb.zbds.top/logo/电影黑匣子.png" group-title="电影频道", 电影黑匣子
@@ -375,10 +373,10 @@ https://goodiptv.club/douyu/9487090
 https://goodiptv.club/douyu/9736161
 #EXTINF:-1 tvg-name="龙门飞甲" tvg-id="龙门飞甲" tvg-logo="https://tb.zbds.top/logo/龙门飞甲.png" group-title="电影频道", 龙门飞甲
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://tb.zbds.top/logo/重温经典.png" group-title="数字频道", 重温经典
-https://other.ottiptv.cc/cwjd.m3u8
 #EXTINF:-1 tvg-name="纪实科教8K" tvg-id="纪实科教8K" tvg-logo="https://tb.zbds.top/logo/纪实科教8K.png" group-title="数字频道", 纪实科教8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教8K" tvg-id="北京纪实科教8K" tvg-logo="https://tb.zbds.top/logo/北京纪实科教8K.png" group-title="数字频道", 北京纪实科教8K
+https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市.png" group-title="数字频道", 南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="四川科教" tvg-id="四川科教" tvg-logo="https://tb.zbds.top/logo/四川科教.png" group-title="数字频道", 四川科教
@@ -387,10 +385,8 @@ http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-id="中国天气" tvg-logo="https://tb.zbds.top/logo/纪实科教.png" group-title="数字频道", 纪实科教
 http://120.76.248.139/live/bfgd/4200000113.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-id="8" tvg-logo="https://tb.zbds.top/logo/优漫卡通.png" group-title="儿童频道", 优漫卡通
-http://119.32.12.17:2901/udp/224.1.100.119:11111
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="11" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="儿童频道", 卡酷少儿
-http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="20" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="儿童频道", 卡酷少儿
+http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="73" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
 http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/广东少儿.png" group-title="儿童频道", 广东少儿
@@ -551,6 +547,8 @@ https://goodiptv.club/douyu/1102973
 https://goodiptv.club/douyu/7552568
 #EXTINF:-1 tvg-name="baby丶贝贝" tvg-id="baby丶贝贝" tvg-logo="https://tb.zbds.top/logo/baby丶贝贝.png" group-title="特色直播", baby丶贝贝
 https://goodiptv.club/douyu/431460
+#EXTINF:-1 tvg-name="bestthings丶放假" tvg-id="bestthings丶放假" tvg-logo="https://tb.zbds.top/logo/bestthings丶放假.png" group-title="特色直播", bestthings丶放假
+https://goodiptv.club/douyu/11752532
 #EXTINF:-1 tvg-name="dw151295068" tvg-id="dw151295068" tvg-logo="https://tb.zbds.top/logo/dw151295068.png" group-title="特色直播", dw151295068
 https://goodiptv.club/douyu/12655359
 #EXTINF:-1 tvg-name="dy荒野建造" tvg-id="dy荒野建造" tvg-logo="https://tb.zbds.top/logo/dy荒野建造.png" group-title="特色直播", dy荒野建造
@@ -563,16 +561,14 @@ https://goodiptv.club/douyu/12015111
 https://goodiptv.club/douyu/9630581
 #EXTINF:-1 tvg-name="gslaini" tvg-id="gslaini" tvg-logo="https://tb.zbds.top/logo/gslaini.png" group-title="特色直播", gslaini
 https://goodiptv.club/douyu/6997954
-#EXTINF:-1 tvg-name="illit礼" tvg-id="illit礼" tvg-logo="https://tb.zbds.top/logo/illit礼.png" group-title="特色直播", illit礼
-https://goodiptv.club/douyu/12065549
+#EXTINF:-1 tvg-name="koanluowei" tvg-id="koanluowei" tvg-logo="https://tb.zbds.top/logo/koanluowei.png" group-title="特色直播", koanluowei
+https://goodiptv.club/douyu/10906963
 #EXTINF:-1 tvg-name="ljgdy" tvg-id="ljgdy" tvg-logo="https://tb.zbds.top/logo/ljgdy.png" group-title="特色直播", ljgdy
 https://goodiptv.club/douyu/1600769
 #EXTINF:-1 tvg-name="low君热剧" tvg-id="low君热剧" tvg-logo="https://tb.zbds.top/logo/low君热剧.png" group-title="特色直播", low君热剧
 https://goodiptv.club/douyu/8461020
 #EXTINF:-1 tvg-name="mad叶月Mashiro灬" tvg-id="mad叶月Mashiro灬" tvg-logo="https://tb.zbds.top/logo/mad叶月Mashiro灬.png" group-title="特色直播", mad叶月Mashiro灬
 https://goodiptv.club/douyu/9192932
-#EXTINF:-1 tvg-name="mn静静nm" tvg-id="mn静静nm" tvg-logo="https://tb.zbds.top/logo/mn静静nm.png" group-title="特色直播", mn静静nm
-https://goodiptv.club/douyu/5668371
 #EXTINF:-1 tvg-name="mzx阿哲" tvg-id="mzx阿哲" tvg-logo="https://tb.zbds.top/logo/mzx阿哲.png" group-title="特色直播", mzx阿哲
 https://goodiptv.club/douyu/9483965
 #EXTINF:-1 tvg-name="py86阿" tvg-id="py86阿" tvg-logo="https://tb.zbds.top/logo/py86阿.png" group-title="特色直播", py86阿
@@ -597,6 +593,8 @@ https://goodiptv.club/douyu/8662684
 https://goodiptv.club/douyu/9497985
 #EXTINF:-1 tvg-name="一条闲木鱼" tvg-id="一条闲木鱼" tvg-logo="https://tb.zbds.top/logo/一条闲木鱼.png" group-title="特色直播", 一条闲木鱼
 https://goodiptv.club/douyu/10102281
+#EXTINF:-1 tvg-name="一生titus" tvg-id="一生titus" tvg-logo="https://tb.zbds.top/logo/一生titus.png" group-title="特色直播", 一生titus
+https://goodiptv.club/douyu/12065569
 #EXTINF:-1 tvg-name="一目十影" tvg-id="一目十影" tvg-logo="https://tb.zbds.top/logo/一目十影.png" group-title="特色直播", 一目十影
 https://goodiptv.club/douyu/3643605
 #EXTINF:-1 tvg-name="一颗咕咕星" tvg-id="一颗咕咕星" tvg-logo="https://tb.zbds.top/logo/一颗咕咕星.png" group-title="特色直播", 一颗咕咕星
@@ -613,8 +611,6 @@ https://goodiptv.club/douyu/9090487
 https://goodiptv.club/douyu/9629717
 #EXTINF:-1 tvg-name="三国颜老师" tvg-id="三国颜老师" tvg-logo="https://tb.zbds.top/logo/三国颜老师.png" group-title="特色直播", 三国颜老师
 https://goodiptv.club/douyu/12253936
-#EXTINF:-1 tvg-name="三年辅助一场空" tvg-id="三年辅助一场空" tvg-logo="https://tb.zbds.top/logo/三年辅助一场空.png" group-title="特色直播", 三年辅助一场空
-https://goodiptv.club/douyu/5251148
 #EXTINF:-1 tvg-name="三斤呦" tvg-id="三斤呦" tvg-logo="https://tb.zbds.top/logo/三斤呦.png" group-title="特色直播", 三斤呦
 https://goodiptv.club/douyu/9047933
 #EXTINF:-1 tvg-name="三新动漫" tvg-id="三新动漫" tvg-logo="https://tb.zbds.top/logo/三新动漫.png" group-title="特色直播", 三新动漫
@@ -653,6 +649,8 @@ https://goodiptv.club/douyu/8221699
 https://goodiptv.club/douyu/8669085
 #EXTINF:-1 tvg-name="九冢嵬" tvg-id="九冢嵬" tvg-logo="https://tb.zbds.top/logo/九冢嵬.png" group-title="特色直播", 九冢嵬
 https://goodiptv.club/douyu/9393501
+#EXTINF:-1 tvg-name="九颗鸭梨" tvg-id="九颗鸭梨" tvg-logo="https://tb.zbds.top/logo/九颗鸭梨.png" group-title="特色直播", 九颗鸭梨
+https://goodiptv.club/douyu/12065801
 #EXTINF:-1 tvg-name="乡村水龙" tvg-id="乡村水龙" tvg-logo="https://tb.zbds.top/logo/乡村水龙.png" group-title="特色直播", 乡村水龙
 https://goodiptv.club/douyu/9486905
 #EXTINF:-1 tvg-name="乡间大路上" tvg-id="乡间大路上" tvg-logo="https://tb.zbds.top/logo/乡间大路上.png" group-title="特色直播", 乡间大路上
@@ -683,10 +681,16 @@ https://goodiptv.club/douyu/10205199
 https://goodiptv.club/douyu/10730187
 #EXTINF:-1 tvg-name="你顶亲亲的前女友" tvg-id="你顶亲亲的前女友" tvg-logo="https://tb.zbds.top/logo/你顶亲亲的前女友.png" group-title="特色直播", 你顶亲亲的前女友
 https://goodiptv.club/douyu/8896746
+#EXTINF:-1 tvg-name="俩个麻瓜" tvg-id="俩个麻瓜" tvg-logo="https://tb.zbds.top/logo/俩个麻瓜.png" group-title="特色直播", 俩个麻瓜
+https://goodiptv.club/douyu/10121755
 #EXTINF:-1 tvg-name="倓张TanZ" tvg-id="倓张TanZ" tvg-logo="https://tb.zbds.top/logo/倓张TanZ.png" group-title="特色直播", 倓张TanZ
 https://goodiptv.club/douyu/9687221
 #EXTINF:-1 tvg-name="傲娇一喵喵" tvg-id="傲娇一喵喵" tvg-logo="https://tb.zbds.top/logo/傲娇一喵喵.png" group-title="特色直播", 傲娇一喵喵
 https://goodiptv.club/douyu/9392610
+#EXTINF:-1 tvg-name="傲娇的超级赛亚人" tvg-id="傲娇的超级赛亚人" tvg-logo="https://tb.zbds.top/logo/傲娇的超级赛亚人.png" group-title="特色直播", 傲娇的超级赛亚人
+https://goodiptv.club/douyu/4373285
+#EXTINF:-1 tvg-name="兔兔MC维辰软桃团" tvg-id="兔兔MC维辰软桃团" tvg-logo="https://tb.zbds.top/logo/兔兔MC维辰软桃团.png" group-title="特色直播", 兔兔MC维辰软桃团
+https://goodiptv.club/douyu/8266799
 #EXTINF:-1 tvg-name="八幡老师1" tvg-id="八幡老师1" tvg-logo="https://tb.zbds.top/logo/八幡老师1.png" group-title="特色直播", 八幡老师1
 https://goodiptv.club/douyu/9272043
 #EXTINF:-1 tvg-name="关云猖" tvg-id="关云猖" tvg-logo="https://tb.zbds.top/logo/关云猖.png" group-title="特色直播", 关云猖
@@ -849,8 +853,6 @@ https://goodiptv.club/douyu/10371561
 https://goodiptv.club/douyu/2067020
 #EXTINF:-1 tvg-name="喝水少年孙十一" tvg-id="喝水少年孙十一" tvg-logo="https://tb.zbds.top/logo/喝水少年孙十一.png" group-title="特色直播", 喝水少年孙十一
 https://goodiptv.club/douyu/9619048
-#EXTINF:-1 tvg-name="喵喵喵的猫酱酱" tvg-id="喵喵喵的猫酱酱" tvg-logo="https://tb.zbds.top/logo/喵喵喵的猫酱酱.png" group-title="特色直播", 喵喵喵的猫酱酱
-https://goodiptv.club/douyu/11179077
 #EXTINF:-1 tvg-name="喵招诗雨" tvg-id="喵招诗雨" tvg-logo="https://tb.zbds.top/logo/喵招诗雨.png" group-title="特色直播", 喵招诗雨
 https://goodiptv.club/douyu/9651121
 #EXTINF:-1 tvg-name="喵来啦V" tvg-id="喵来啦V" tvg-logo="https://tb.zbds.top/logo/喵来啦V.png" group-title="特色直播", 喵来啦V
@@ -865,8 +867,6 @@ https://goodiptv.club/douyu/8657834
 https://goodiptv.club/douyu/1952680
 #EXTINF:-1 tvg-name="在下小苏Su" tvg-id="在下小苏Su" tvg-logo="https://tb.zbds.top/logo/在下小苏Su.png" group-title="特色直播", 在下小苏Su
 https://goodiptv.club/douyu/8658051
-#EXTINF:-1 tvg-name="在回忆中寻找" tvg-id="在回忆中寻找" tvg-logo="https://tb.zbds.top/logo/在回忆中寻找.png" group-title="特色直播", 在回忆中寻找
-https://goodiptv.club/douyu/12065601
 #EXTINF:-1 tvg-name="培根悖论唠唠嗑" tvg-id="培根悖论唠唠嗑" tvg-logo="https://tb.zbds.top/logo/培根悖论唠唠嗑.png" group-title="特色直播", 培根悖论唠唠嗑
 https://goodiptv.club/douyu/5354713
 #EXTINF:-1 tvg-name="堇姑娘" tvg-id="堇姑娘" tvg-logo="https://tb.zbds.top/logo/堇姑娘.png" group-title="特色直播", 堇姑娘
@@ -927,6 +927,8 @@ https://goodiptv.club/douyu/8662915
 https://goodiptv.club/douyu/10394922
 #EXTINF:-1 tvg-name="奇光主播" tvg-id="奇光主播" tvg-logo="https://tb.zbds.top/logo/奇光主播.png" group-title="特色直播", 奇光主播
 https://goodiptv.club/douyu/8009547
+#EXTINF:-1 tvg-name="奇光主播R" tvg-id="奇光主播R" tvg-logo="https://tb.zbds.top/logo/奇光主播R.png" group-title="特色直播", 奇光主播R
+https://goodiptv.club/douyu/12080172
 #EXTINF:-1 tvg-name="奇光主播e" tvg-id="奇光主播e" tvg-logo="https://tb.zbds.top/logo/奇光主播e.png" group-title="特色直播", 奇光主播e
 https://goodiptv.club/douyu/11849873
 #EXTINF:-1 tvg-name="奇光主播q" tvg-id="奇光主播q" tvg-logo="https://tb.zbds.top/logo/奇光主播q.png" group-title="特色直播", 奇光主播q
@@ -1001,6 +1003,10 @@ https://goodiptv.club/douyu/117854
 https://goodiptv.club/douyu/11199147
 #EXTINF:-1 tvg-name="小林家的旗女仆" tvg-id="小林家的旗女仆" tvg-logo="https://tb.zbds.top/logo/小林家的旗女仆.png" group-title="特色直播", 小林家的旗女仆
 https://goodiptv.club/douyu/9211287
+#EXTINF:-1 tvg-name="小毅主播A" tvg-id="小毅主播A" tvg-logo="https://tb.zbds.top/logo/小毅主播A.png" group-title="特色直播", 小毅主播A
+https://goodiptv.club/douyu/12780285
+#EXTINF:-1 tvg-name="小毅主播R" tvg-id="小毅主播R" tvg-logo="https://tb.zbds.top/logo/小毅主播R.png" group-title="特色直播", 小毅主播R
+https://goodiptv.club/douyu/12805939
 #EXTINF:-1 tvg-name="小毅主播e" tvg-id="小毅主播e" tvg-logo="https://tb.zbds.top/logo/小毅主播e.png" group-title="特色直播", 小毅主播e
 https://goodiptv.club/douyu/11851549
 #EXTINF:-1 tvg-name="小毅主播q" tvg-id="小毅主播q" tvg-logo="https://tb.zbds.top/logo/小毅主播q.png" group-title="特色直播", 小毅主播q
@@ -1051,6 +1057,10 @@ https://goodiptv.club/douyu/9410236
 https://goodiptv.club/douyu/10329889
 #EXTINF:-1 tvg-name="岚FLL" tvg-id="岚FLL" tvg-logo="https://tb.zbds.top/logo/岚FLL.png" group-title="特色直播", 岚FLL
 https://goodiptv.club/douyu/9409703
+#EXTINF:-1 tvg-name="崔杋圭五颜一" tvg-id="崔杋圭五颜一" tvg-logo="https://tb.zbds.top/logo/崔杋圭五颜一.png" group-title="特色直播", 崔杋圭五颜一
+https://goodiptv.club/douyu/8189873
+#EXTINF:-1 tvg-name="崔然竣舞台天才" tvg-id="崔然竣舞台天才" tvg-logo="https://tb.zbds.top/logo/崔然竣舞台天才.png" group-title="特色直播", 崔然竣舞台天才
+https://goodiptv.club/douyu/113158
 #EXTINF:-1 tvg-name="巅峰球迷会" tvg-id="巅峰球迷会" tvg-logo="https://tb.zbds.top/logo/巅峰球迷会.png" group-title="特色直播", 巅峰球迷会
 https://goodiptv.club/douyu/10417360
 #EXTINF:-1 tvg-name="工藤新医heart" tvg-id="工藤新医heart" tvg-logo="https://tb.zbds.top/logo/工藤新医heart.png" group-title="特色直播", 工藤新医heart
@@ -1089,6 +1099,10 @@ https://goodiptv.club/douyu/3439096
 https://goodiptv.club/douyu/5875025
 #EXTINF:-1 tvg-name="影子叔V" tvg-id="影子叔V" tvg-logo="https://tb.zbds.top/logo/影子叔V.png" group-title="特色直播", 影子叔V
 https://goodiptv.club/douyu/9446338
+#EXTINF:-1 tvg-name="彼岸心属MADEIN伊藤美优" tvg-id="彼岸心属MADEIN伊藤美优" tvg-logo="https://tb.zbds.top/logo/彼岸心属MADEIN伊藤美优.png" group-title="特色直播", 彼岸心属MADEIN伊藤美优
+https://goodiptv.club/douyu/40471
+#EXTINF:-1 tvg-name="往事vs随风1" tvg-id="往事vs随风1" tvg-logo="https://tb.zbds.top/logo/往事vs随风1.png" group-title="特色直播", 往事vs随风1
+https://goodiptv.club/douyu/3113309
 #EXTINF:-1 tvg-name="律子桑" tvg-id="律子桑" tvg-logo="https://tb.zbds.top/logo/律子桑.png" group-title="特色直播", 律子桑
 https://goodiptv.club/douyu/9371308
 #EXTINF:-1 tvg-name="徐大sao" tvg-id="徐大sao" tvg-logo="https://tb.zbds.top/logo/徐大sao.png" group-title="特色直播", 徐大sao
@@ -1097,6 +1111,8 @@ https://goodiptv.club/douyu/7107176
 https://goodiptv.club/douyu/9517289
 #EXTINF:-1 tvg-name="御魔君" tvg-id="御魔君" tvg-logo="https://tb.zbds.top/logo/御魔君.png" group-title="特色直播", 御魔君
 https://goodiptv.club/douyu/9199976
+#EXTINF:-1 tvg-name="微梦屋" tvg-id="微梦屋" tvg-logo="https://tb.zbds.top/logo/微梦屋.png" group-title="特色直播", 微梦屋
+https://goodiptv.club/douyu/7027040
 #EXTINF:-1 tvg-name="徳彪的奇妙冒险" tvg-id="徳彪的奇妙冒险" tvg-logo="https://tb.zbds.top/logo/徳彪的奇妙冒险.png" group-title="特色直播", 徳彪的奇妙冒险
 https://goodiptv.club/douyu/9145648
 #EXTINF:-1 tvg-name="德井鱼" tvg-id="德井鱼" tvg-logo="https://tb.zbds.top/logo/德井鱼.png" group-title="特色直播", 德井鱼
@@ -1113,8 +1129,6 @@ https://goodiptv.club/douyu/8842108
 https://goodiptv.club/douyu/434971
 #EXTINF:-1 tvg-name="怪事屋" tvg-id="怪事屋" tvg-logo="https://tb.zbds.top/logo/怪事屋.png" group-title="特色直播", 怪事屋
 https://goodiptv.club/douyu/8706084
-#EXTINF:-1 tvg-name="恨铁" tvg-id="恨铁" tvg-logo="https://tb.zbds.top/logo/恨铁.png" group-title="特色直播", 恨铁
-https://goodiptv.club/douyu/6369954
 #EXTINF:-1 tvg-name="恰饭橘" tvg-id="恰饭橘" tvg-logo="https://tb.zbds.top/logo/恰饭橘.png" group-title="特色直播", 恰饭橘
 https://goodiptv.club/douyu/7974136
 #EXTINF:-1 tvg-name="悉奇" tvg-id="悉奇" tvg-logo="https://tb.zbds.top/logo/悉奇.png" group-title="特色直播", 悉奇
@@ -1133,8 +1147,6 @@ https://goodiptv.club/douyu/9565130
 https://goodiptv.club/douyu/2287949
 #EXTINF:-1 tvg-name="我为奥迪上黄金" tvg-id="我为奥迪上黄金" tvg-logo="https://tb.zbds.top/logo/我为奥迪上黄金.png" group-title="特色直播", 我为奥迪上黄金
 https://goodiptv.club/douyu/9336286
-#EXTINF:-1 tvg-name="我们可爱的程程" tvg-id="我们可爱的程程" tvg-logo="https://tb.zbds.top/logo/我们可爱的程程.png" group-title="特色直播", 我们可爱的程程
-https://goodiptv.club/douyu/329667
 #EXTINF:-1 tvg-name="我叫孙火旺" tvg-id="我叫孙火旺" tvg-logo="https://tb.zbds.top/logo/我叫孙火旺.png" group-title="特色直播", 我叫孙火旺
 https://goodiptv.club/douyu/9770949
 #EXTINF:-1 tvg-name="我叫萌迪迪V" tvg-id="我叫萌迪迪V" tvg-logo="https://tb.zbds.top/logo/我叫萌迪迪V.png" group-title="特色直播", 我叫萌迪迪V
@@ -1507,6 +1519,8 @@ https://goodiptv.club/douyu/8837963
 https://goodiptv.club/douyu/9439712
 #EXTINF:-1 tvg-name="科幻Fans布玛" tvg-id="科幻Fans布玛" tvg-logo="https://tb.zbds.top/logo/科幻Fans布玛.png" group-title="特色直播", 科幻Fans布玛
 https://goodiptv.club/douyu/3508304
+#EXTINF:-1 tvg-name="科幻战舰" tvg-id="科幻战舰" tvg-logo="https://tb.zbds.top/logo/科幻战舰.png" group-title="特色直播", 科幻战舰
+https://goodiptv.club/douyu/8772060
 #EXTINF:-1 tvg-name="科幻梦工场" tvg-id="科幻梦工场" tvg-logo="https://tb.zbds.top/logo/科幻梦工场.png" group-title="特色直播", 科幻梦工场
 https://goodiptv.club/douyu/9608874
 #EXTINF:-1 tvg-name="科技PRO" tvg-id="科技PRO" tvg-logo="https://tb.zbds.top/logo/科技PRO.png" group-title="特色直播", 科技PRO
@@ -1553,8 +1567,6 @@ https://goodiptv.club/douyu/2940299
 https://goodiptv.club/douyu/9390685
 #EXTINF:-1 tvg-name="繁星之所在" tvg-id="繁星之所在" tvg-logo="https://tb.zbds.top/logo/繁星之所在.png" group-title="特色直播", 繁星之所在
 https://goodiptv.club/douyu/6033135
-#EXTINF:-1 tvg-name="红鼻子小黑吖" tvg-id="红鼻子小黑吖" tvg-logo="https://tb.zbds.top/logo/红鼻子小黑吖.png" group-title="特色直播", 红鼻子小黑吖
-https://goodiptv.club/douyu/5832053
 #EXTINF:-1 tvg-name="纪录片之家字幕组" tvg-id="纪录片之家字幕组" tvg-logo="https://tb.zbds.top/logo/纪录片之家字幕组.png" group-title="特色直播", 纪录片之家字幕组
 https://goodiptv.club/douyu/8834003
 #EXTINF:-1 tvg-name="纳豆奶奶666" tvg-id="纳豆奶奶666" tvg-logo="https://tb.zbds.top/logo/纳豆奶奶666.png" group-title="特色直播", 纳豆奶奶666
@@ -1575,6 +1587,8 @@ https://goodiptv.club/douyu/2174405
 https://goodiptv.club/douyu/508118
 #EXTINF:-1 tvg-name="罗休休休" tvg-id="罗休休休" tvg-logo="https://tb.zbds.top/logo/罗休休休.png" group-title="特色直播", 罗休休休
 https://goodiptv.club/douyu/9403178
+#EXTINF:-1 tvg-name="罗先生699" tvg-id="罗先生699" tvg-logo="https://tb.zbds.top/logo/罗先生699.png" group-title="特色直播", 罗先生699
+https://goodiptv.club/douyu/12065805
 #EXTINF:-1 tvg-name="羊小川" tvg-id="羊小川" tvg-logo="https://tb.zbds.top/logo/羊小川.png" group-title="特色直播", 羊小川
 https://goodiptv.club/douyu/11081842
 #EXTINF:-1 tvg-name="美人而已" tvg-id="美人而已" tvg-logo="https://tb.zbds.top/logo/美人而已.png" group-title="特色直播", 美人而已
@@ -1585,6 +1599,8 @@ https://goodiptv.club/douyu/9533226
 https://goodiptv.club/douyu/9193179
 #EXTINF:-1 tvg-name="翦瞳秋" tvg-id="翦瞳秋" tvg-logo="https://tb.zbds.top/logo/翦瞳秋.png" group-title="特色直播", 翦瞳秋
 https://goodiptv.club/douyu/9623057
+#EXTINF:-1 tvg-name="翼风110" tvg-id="翼风110" tvg-logo="https://tb.zbds.top/logo/翼风110.png" group-title="特色直播", 翼风110
+https://goodiptv.club/douyu/3573342
 #EXTINF:-1 tvg-name="老人家小熊猫君" tvg-id="老人家小熊猫君" tvg-logo="https://tb.zbds.top/logo/老人家小熊猫君.png" group-title="特色直播", 老人家小熊猫君
 https://goodiptv.club/douyu/753342
 #EXTINF:-1 tvg-name="老段带你钓青鱼" tvg-id="老段带你钓青鱼" tvg-logo="https://tb.zbds.top/logo/老段带你钓青鱼.png" group-title="特色直播", 老段带你钓青鱼
@@ -1635,6 +1651,8 @@ https://goodiptv.club/douyu/2793084
 https://goodiptv.club/douyu/1174353
 #EXTINF:-1 tvg-name="茶啊二中官方" tvg-id="茶啊二中官方" tvg-logo="https://tb.zbds.top/logo/茶啊二中官方.png" group-title="特色直播", 茶啊二中官方
 https://goodiptv.club/douyu/2925610
+#EXTINF:-1 tvg-name="草帽丶海贼团" tvg-id="草帽丶海贼团" tvg-logo="https://tb.zbds.top/logo/草帽丶海贼团.png" group-title="特色直播", 草帽丶海贼团
+https://goodiptv.club/douyu/997925
 #EXTINF:-1 tvg-name="草泥泥影院" tvg-id="草泥泥影院" tvg-logo="https://tb.zbds.top/logo/草泥泥影院.png" group-title="特色直播", 草泥泥影院
 https://goodiptv.club/douyu/9091049
 #EXTINF:-1 tvg-name="荒野万池王" tvg-id="荒野万池王" tvg-logo="https://tb.zbds.top/logo/荒野万池王.png" group-title="特色直播", 荒野万池王
@@ -1729,8 +1747,6 @@ https://goodiptv.club/douyu/10118209
 https://goodiptv.club/douyu/9412454
 #EXTINF:-1 tvg-name="轻风乍起的号" tvg-id="轻风乍起的号" tvg-logo="https://tb.zbds.top/logo/轻风乍起的号.png" group-title="特色直播", 轻风乍起的号
 https://goodiptv.club/douyu/9445489
-#EXTINF:-1 tvg-name="过往1908" tvg-id="过往1908" tvg-logo="https://tb.zbds.top/logo/过往1908.png" group-title="特色直播", 过往1908
-https://goodiptv.club/douyu/8721095
 #EXTINF:-1 tvg-name="迷剧阿菁" tvg-id="迷剧阿菁" tvg-logo="https://tb.zbds.top/logo/迷剧阿菁.png" group-title="特色直播", 迷剧阿菁
 https://goodiptv.club/douyu/9486024
 #EXTINF:-1 tvg-name="迷影至下Filmlast" tvg-id="迷影至下Filmlast" tvg-logo="https://tb.zbds.top/logo/迷影至下Filmlast.png" group-title="特色直播", 迷影至下Filmlast
@@ -1785,6 +1801,8 @@ https://goodiptv.club/douyu/9450942
 https://goodiptv.club/douyu/9322081
 #EXTINF:-1 tvg-name="铁牛杰哥" tvg-id="铁牛杰哥" tvg-logo="https://tb.zbds.top/logo/铁牛杰哥.png" group-title="特色直播", 铁牛杰哥
 https://goodiptv.club/douyu/8815425
+#EXTINF:-1 tvg-name="铁甲影院" tvg-id="铁甲影院" tvg-logo="https://tb.zbds.top/logo/铁甲影院.png" group-title="特色直播", 铁甲影院
+https://goodiptv.club/douyu/1274132
 #EXTINF:-1 tvg-name="锅盖哒" tvg-id="锅盖哒" tvg-logo="https://tb.zbds.top/logo/锅盖哒.png" group-title="特色直播", 锅盖哒
 https://goodiptv.club/douyu/9398828
 #EXTINF:-1 tvg-name="锦书致南辞阿" tvg-id="锦书致南辞阿" tvg-logo="https://tb.zbds.top/logo/锦书致南辞阿.png" group-title="特色直播", 锦书致南辞阿
@@ -1817,6 +1835,8 @@ https://goodiptv.club/douyu/9568700
 https://goodiptv.club/douyu/8936207
 #EXTINF:-1 tvg-name="霹雳舞大叔" tvg-id="霹雳舞大叔" tvg-logo="https://tb.zbds.top/logo/霹雳舞大叔.png" group-title="特色直播", 霹雳舞大叔
 https://goodiptv.club/douyu/1528853
+#EXTINF:-1 tvg-name="静静给你糖" tvg-id="静静给你糖" tvg-logo="https://tb.zbds.top/logo/静静给你糖.png" group-title="特色直播", 静静给你糖
+https://goodiptv.club/douyu/11752454
 #EXTINF:-1 tvg-name="鞋荐JMJ" tvg-id="鞋荐JMJ" tvg-logo="https://tb.zbds.top/logo/鞋荐JMJ.png" group-title="特色直播", 鞋荐JMJ
 https://goodiptv.club/douyu/865331
 #EXTINF:-1 tvg-name="音乐台长" tvg-id="音乐台长" tvg-logo="https://tb.zbds.top/logo/音乐台长.png" group-title="特色直播", 音乐台长
@@ -1839,6 +1859,8 @@ https://goodiptv.club/douyu/8821892
 https://goodiptv.club/douyu/9651506
 #EXTINF:-1 tvg-name="高能恐怖片段君" tvg-id="高能恐怖片段君" tvg-logo="https://tb.zbds.top/logo/高能恐怖片段君.png" group-title="特色直播", 高能恐怖片段君
 https://goodiptv.club/douyu/10401475
+#EXTINF:-1 tvg-name="魔术师丶西索" tvg-id="魔术师丶西索" tvg-logo="https://tb.zbds.top/logo/魔术师丶西索.png" group-title="特色直播", 魔术师丶西索
+https://goodiptv.club/douyu/6610883
 #EXTINF:-1 tvg-name="鯋鱼辰辰" tvg-id="鯋鱼辰辰" tvg-logo="https://tb.zbds.top/logo/鯋鱼辰辰.png" group-title="特色直播", 鯋鱼辰辰
 https://goodiptv.club/douyu/7623292
 #EXTINF:-1 tvg-name="鲁过一世" tvg-id="鲁过一世" tvg-logo="https://tb.zbds.top/logo/鲁过一世.png" group-title="特色直播", 鲁过一世
@@ -1869,6 +1891,8 @@ https://goodiptv.club/douyu/9415755
 https://goodiptv.club/douyu/9477915
 #EXTINF:-1 tvg-name="龙大人不喷火zZ" tvg-id="龙大人不喷火zZ" tvg-logo="https://tb.zbds.top/logo/龙大人不喷火zZ.png" group-title="特色直播", 龙大人不喷火zZ
 https://goodiptv.club/douyu/9437298
+#EXTINF:-1 tvg-name="龙楼宝殿" tvg-id="龙楼宝殿" tvg-logo="https://tb.zbds.top/logo/龙楼宝殿.png" group-title="特色直播", 龙楼宝殿
+https://goodiptv.club/douyu/7422897
 #EXTINF:-1 tvg-name="龙组队长天昊" tvg-id="龙组队长天昊" tvg-logo="https://tb.zbds.top/logo/龙组队长天昊.png" group-title="特色直播", 龙组队长天昊
 https://goodiptv.club/douyu/1487654
 #EXTINF:-1 tvg-name="龙视开心麻花街" tvg-id="龙视开心麻花街" tvg-logo="https://tb.zbds.top/logo/龙视开心麻花街.png" group-title="特色直播", 龙视开心麻花街
@@ -1885,8 +1909,8 @@ https://goodiptv.club/douyu/9375450
 https://goodiptv.club/douyu/1717648
 #EXTINF:-1 tvg-name="𬙊缘老给给" tvg-id="𬙊缘老给给" tvg-logo="https://tb.zbds.top/logo/𬙊缘老给给.png" group-title="特色直播", 𬙊缘老给给
 https://goodiptv.club/douyu/9543413
-#EXTINF:-1 tvg-name="广东珠江" tvg-id="61" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="地方频道", 广东珠江
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="广东珠江" tvg-logo="https://tb.zbds.top/logo/广东珠江.png" group-title="地方频道", 广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-id="厦门卫视" tvg-logo="https://tb.zbds.top/logo/厦门卫视.png" group-title="地方频道", 厦门卫视
 https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 #EXTINF:-1 tvg-name="延边卫视" tvg-id="延边卫视" tvg-logo="https://tb.zbds.top/logo/延边卫视.png" group-title="地方频道", 延边卫视
@@ -1897,8 +1921,8 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8
 http://222.128.55.152:9080/live/dwq.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="地方频道", 山东教育
 http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19
-#EXTINF:-1 tvg-name="广东体育" tvg-id="5" tvg-logo="https://tb.zbds.top/logo/广东体育.png" group-title="地方频道", 广东体育
-http://cdn2.132.us.kg/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-id="广东体育" tvg-logo="https://tb.zbds.top/logo/广东体育.png" group-title="地方频道", 广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://tb.zbds.top/logo/快乐垂钓.png" group-title="地方频道", 快乐垂钓
 http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 #EXTINF:-1 tvg-name="七台河新闻综合" tvg-id="七台河新闻综合" tvg-logo="https://tb.zbds.top/logo/七台河新闻综合.png" group-title="地方频道", 七台河新闻综合
@@ -2035,8 +2059,6 @@ http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
 http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
 #EXTINF:-1 tvg-name="叙州新闻综合" tvg-id="叙州新闻综合" tvg-logo="https://tb.zbds.top/logo/叙州新闻综合.png" group-title="地方频道", 叙州新闻综合
 http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-#EXTINF:-1 tvg-name="古县综合" tvg-id="古县综合" tvg-logo="https://tb.zbds.top/logo/古县综合.png" group-title="地方频道", 古县综合
-https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 #EXTINF:-1 tvg-name="句容党建" tvg-id="句容党建" tvg-logo="https://tb.zbds.top/logo/句容党建.png" group-title="地方频道", 句容党建
 http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="句容影院" tvg-id="句容影院" tvg-logo="https://tb.zbds.top/logo/句容影院.png" group-title="地方频道", 句容影院
@@ -2063,10 +2085,14 @@ https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨娱乐" tvg-id="哈尔滨娱乐" tvg-logo="https://tb.zbds.top/logo/哈尔滨娱乐.png" group-title="地方频道", 哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-id="哈尔滨新闻综合" tvg-logo="https://tb.zbds.top/logo/哈尔滨新闻综合.png" group-title="地方频道", 哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="哈尔滨生活" tvg-id="哈尔滨生活" tvg-logo="https://tb.zbds.top/logo/哈尔滨生活.png" group-title="地方频道", 哈尔滨生活
 http://111.43.126.240:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="哈尔滨资讯" tvg-id="哈尔滨资讯" tvg-logo="https://tb.zbds.top/logo/哈尔滨资讯.png" group-title="地方频道", 哈尔滨资讯
 http://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="哈尔滨都市咨询" tvg-id="哈尔滨都市咨询" tvg-logo="https://tb.zbds.top/logo/哈尔滨都市咨询.png" group-title="地方频道", 哈尔滨都市咨询
+http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="唐河一套" tvg-id="唐河一套" tvg-logo="https://tb.zbds.top/logo/唐河一套.png" group-title="地方频道", 唐河一套
 http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-id="嘉兴新闻综合" tvg-logo="https://tb.zbds.top/logo/嘉兴新闻综合.png" group-title="地方频道", 嘉兴新闻综合
@@ -2131,6 +2157,8 @@ https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 http://play-sh13.quklive.com/live/1690167908295069.m3u8?auth_key=2027466211-f190eec410c24473825cbe1d8541e545-0-f21db57ae1b534802c1cf7be86cc3aef
 #EXTINF:-1 tvg-name="平湖民生休闲" tvg-id="平湖民生休闲" tvg-logo="https://tb.zbds.top/logo/平湖民生休闲.png" group-title="地方频道", 平湖民生休闲
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 tvg-name="平遥新闻综合" tvg-id="平遥新闻综合" tvg-logo="https://tb.zbds.top/logo/平遥新闻综合.png" group-title="地方频道", 平遥新闻综合
+https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="广东民生" tvg-id="78" tvg-logo="https://tb.zbds.top/logo/广东民生.png" group-title="地方频道", 广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="广元公共" tvg-id="广元公共" tvg-logo="https://tb.zbds.top/logo/广元公共.png" group-title="地方频道", 广元公共
@@ -2214,7 +2242,7 @@ https://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡经济" tvg-id="无锡经济" tvg-logo="https://tb.zbds.top/logo/无锡经济.png" group-title="地方频道", 无锡经济
 https://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡都市资讯" tvg-id="无锡都市资讯" tvg-logo="https://tb.zbds.top/logo/无锡都市资讯.png" group-title="地方频道", 无锡都市资讯
-http://stream.thmz.com/wxtv3/sd/live.m3u8
+http://stream.thmz.com/wxtv3/playlist.m3u8
 #EXTINF:-1 tvg-name="旺苍新闻综合" tvg-id="旺苍新闻综合" tvg-logo="https://tb.zbds.top/logo/旺苍新闻综合.png" group-title="地方频道", 旺苍新闻综合
 http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 #EXTINF:-1 tvg-name="昌黎综合" tvg-id="昌黎综合" tvg-logo="https://tb.zbds.top/logo/昌黎综合.png" group-title="地方频道", 昌黎综合
@@ -2333,6 +2361,8 @@ http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-id="浙江钱江都市" tvg-logo="https://tb.zbds.top/logo/浙江钱江都市.png" group-title="地方频道", 浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江钱江频道" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/浙江钱江频道.png" group-title="地方频道", 浙江钱江频道
+http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 tvg-name="海南新闻" tvg-id="海南新闻" tvg-logo="https://tb.zbds.top/logo/海南新闻.png" group-title="地方频道", 海南新闻
 http://ls.qingting.fm/live/1861.m3u8
 #EXTINF:-1 tvg-name="海宁新闻综合" tvg-id="海宁新闻综合" tvg-logo="https://tb.zbds.top/logo/海宁新闻综合.png" group-title="地方频道", 海宁新闻综合
@@ -2369,14 +2399,18 @@ https://mgtv.ottiptv.cc/migu/639737327.m3u8?migutoken=4c07b7afe94ad06d114a6bccae
 http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="滦平新闻" tvg-id="滦平新闻" tvg-logo="https://tb.zbds.top/logo/滦平新闻.png" group-title="地方频道", 滦平新闻
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="滨海新闻综合" tvg-id="滨海新闻综合" tvg-logo="https://tb.zbds.top/logo/滨海新闻综合.png" group-title="地方频道", 滨海新闻综合
-http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 #EXTINF:-1 tvg-name="潢川综合" tvg-id="潢川综合" tvg-logo="https://tb.zbds.top/logo/潢川综合.png" group-title="地方频道", 潢川综合
 http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
 #EXTINF:-1 tvg-name="灌阳新闻综合" tvg-id="灌阳新闻综合" tvg-logo="https://tb.zbds.top/logo/灌阳新闻综合.png" group-title="地方频道", 灌阳新闻综合
 https://ls.qingting.fm/live/5043/64k.m3u8
 #EXTINF:-1 tvg-name="灵宝新闻综合" tvg-id="灵宝新闻综合" tvg-logo="https://tb.zbds.top/logo/灵宝新闻综合.png" group-title="地方频道", 灵宝新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
+#EXTINF:-1 tvg-name="烟台公共" tvg-id="烟台公共" tvg-logo="https://tb.zbds.top/logo/烟台公共.png" group-title="地方频道", 烟台公共
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 tvg-name="烟台新闻综合" tvg-id="烟台新闻综合" tvg-logo="https://tb.zbds.top/logo/烟台新闻综合.png" group-title="地方频道", 烟台新闻综合
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+#EXTINF:-1 tvg-name="烟台经济科技" tvg-id="烟台经济科技" tvg-logo="https://tb.zbds.top/logo/烟台经济科技.png" group-title="地方频道", 烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
 #EXTINF:-1 tvg-name="玛纳斯综合" tvg-id="玛纳斯综合" tvg-logo="https://tb.zbds.top/logo/玛纳斯综合.png" group-title="地方频道", 玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 #EXTINF:-1 tvg-name="环球旅游" tvg-id="环球旅游" tvg-logo="https://tb.zbds.top/logo/环球旅游.png" group-title="地方频道", 环球旅游
@@ -2525,10 +2559,6 @@ http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-id="重庆汽摩" tvg-logo="https://tb.zbds.top/logo/重庆汽摩.png" group-title="地方频道", 重庆汽摩
 http://120.76.248.139/live/bfgd/4200000168.m3u8
-#EXTINF:-1 tvg-name="金川乡村" tvg-id="金川乡村" tvg-logo="https://tb.zbds.top/logo/金川乡村.png" group-title="地方频道", 金川乡村
-http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
-#EXTINF:-1 tvg-name="金川新闻综合" tvg-id="金川新闻综合" tvg-logo="https://tb.zbds.top/logo/金川新闻综合.png" group-title="地方频道", 金川新闻综合
-http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 tvg-name="铜梁综合" tvg-id="铜梁综合" tvg-logo="https://tb.zbds.top/logo/铜梁综合.png" group-title="地方频道", 铜梁综合
 http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="铜陵新闻综合" tvg-id="铜陵新闻综合" tvg-logo="https://tb.zbds.top/logo/铜陵新闻综合.png" group-title="地方频道", 铜陵新闻综合
@@ -2669,10 +2699,8 @@ https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d3
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 #EXTINF:-1 tvg-name="龙井" tvg-id="龙井" tvg-logo="https://tb.zbds.top/logo/龙井.png" group-title="纪录频道", 龙井
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://tb.zbds.top/logo/五星体育.png" group-title="体育频道", 五星体育
-https://other.ottiptv.cc/wxty.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://tb.zbds.top/logo/五星体育.png" group-title="体育频道", 五星体育
-https://other.ottiptv.cc/wxty.m3u8
+#EXTINF:-1 tvg-name="JJ斗地主" tvg-id="JJ斗地主" tvg-logo="https://tb.zbds.top/logo/JJ斗地主.png" group-title="体育频道", JJ斗地主
+https://live.iill.top/douyin/685317364746
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="睛彩广场舞" tvg-logo="https://tb.zbds.top/logo/睛彩广场舞.png" group-title="体育频道", 睛彩广场舞
 http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="17号说动漫" tvg-id="17号说动漫" tvg-logo="https://tb.zbds.top/logo/17号说动漫.png" group-title="解说频道", 17号说动漫
@@ -2751,12 +2779,8 @@ https://goodiptv.club/douyu/4921957
 https://goodiptv.club/douyu/9437349
 #EXTINF:-1 tvg-name="大趴电影院" tvg-id="大趴电影院" tvg-logo="https://tb.zbds.top/logo/大趴电影院.png" group-title="解说频道", 大趴电影院
 https://goodiptv.club/douyu/8747638
-#EXTINF:-1 tvg-name="大魔王说游" tvg-id="大魔王说游" tvg-logo="https://tb.zbds.top/logo/大魔王说游.png" group-title="解说频道", 大魔王说游
-https://goodiptv.club/douyu/10415661
 #EXTINF:-1 tvg-name="女汉子说电影" tvg-id="女汉子说电影" tvg-logo="https://tb.zbds.top/logo/女汉子说电影.png" group-title="解说频道", 女汉子说电影
 https://goodiptv.club/douyu/9395966
-#EXTINF:-1 tvg-name="女神撩电影" tvg-id="女神撩电影" tvg-logo="https://tb.zbds.top/logo/女神撩电影.png" group-title="解说频道", 女神撩电影
-https://goodiptv.club/douyu/9439594
 #EXTINF:-1 tvg-name="好像视说故事" tvg-id="好像视说故事" tvg-logo="https://tb.zbds.top/logo/好像视说故事.png" group-title="解说频道", 好像视说故事
 https://goodiptv.club/douyu/8891883
 #EXTINF:-1 tvg-name="好剧看不停" tvg-id="好剧看不停" tvg-logo="https://tb.zbds.top/logo/好剧看不停.png" group-title="解说频道", 好剧看不停
@@ -2835,8 +2859,10 @@ https://goodiptv.club/douyu/9769563
 https://goodiptv.club/douyu/9375743
 #EXTINF:-1 tvg-name="汪哥说电影" tvg-id="汪哥说电影" tvg-logo="https://tb.zbds.top/logo/汪哥说电影.png" group-title="解说频道", 汪哥说电影
 https://goodiptv.club/douyu/9312685
+#EXTINF:-1 tvg-name="浩贤说电影" tvg-id="浩贤说电影" tvg-logo="https://tb.zbds.top/logo/浩贤说电影.png" group-title="解说频道", 浩贤说电影
+https://goodiptv.club/douyu/10535867
 #EXTINF:-1 tvg-name="漫画解说" tvg-id="漫画解说" tvg-logo="https://tb.zbds.top/logo/漫画解说.png" group-title="解说频道", 漫画解说
-https://www.goodiptv.club/douyu/5907076
+https://yylunbo.ottiptv.cc/yy/1382735568
 #EXTINF:-1 tvg-name="火龙果讲电影本人" tvg-id="火龙果讲电影本人" tvg-logo="https://tb.zbds.top/logo/火龙果讲电影本人.png" group-title="解说频道", 火龙果讲电影本人
 https://goodiptv.club/douyu/2039501
 #EXTINF:-1 tvg-name="火龙果说电影" tvg-id="火龙果说电影" tvg-logo="https://tb.zbds.top/logo/火龙果说电影.png" group-title="解说频道", 火龙果说电影
@@ -2847,6 +2873,8 @@ https://goodiptv.club/douyu/1690081
 https://goodiptv.club/douyu/9678207
 #EXTINF:-1 tvg-name="热影连连看" tvg-id="热影连连看" tvg-logo="https://tb.zbds.top/logo/热影连连看.png" group-title="解说频道", 热影连连看
 https://goodiptv.club/douyu/9388931
+#EXTINF:-1 tvg-name="爱看剧的家Fat喵" tvg-id="爱看剧的家Fat喵" tvg-logo="https://tb.zbds.top/logo/爱看剧的家Fat喵.png" group-title="解说频道", 爱看剧的家Fat喵
+https://goodiptv.club/douyu/65943
 #EXTINF:-1 tvg-name="爱讲神话的小志" tvg-id="爱讲神话的小志" tvg-logo="https://tb.zbds.top/logo/爱讲神话的小志.png" group-title="解说频道", 爱讲神话的小志
 https://goodiptv.club/douyu/9495613
 #EXTINF:-1 tvg-name="牛叔说电影" tvg-id="牛叔说电影" tvg-logo="https://tb.zbds.top/logo/牛叔说电影.png" group-title="解说频道", 牛叔说电影
@@ -2873,6 +2901,8 @@ https://goodiptv.club/douyu/8821917
 https://goodiptv.club/douyu/9720919
 #EXTINF:-1 tvg-name="看电影了没V" tvg-id="看电影了没V" tvg-logo="https://tb.zbds.top/logo/看电影了没V.png" group-title="解说频道", 看电影了没V
 https://goodiptv.club/douyu/9562616
+#EXTINF:-1 tvg-name="真香动漫解说" tvg-id="真香动漫解说" tvg-logo="https://tb.zbds.top/logo/真香动漫解说.png" group-title="解说频道", 真香动漫解说
+https://goodiptv.club/douyu/9391292
 #EXTINF:-1 tvg-name="神之传说sh" tvg-id="神之传说sh" tvg-logo="https://tb.zbds.top/logo/神之传说sh.png" group-title="解说频道", 神之传说sh
 https://goodiptv.club/douyu/9370168
 #EXTINF:-1 tvg-name="神羊说电影" tvg-id="神羊说电影" tvg-logo="https://tb.zbds.top/logo/神羊说电影.png" group-title="解说频道", 神羊说电影
@@ -3155,5 +3185,5 @@ http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 tvg-name="黄龙" tvg-id="黄龙" tvg-logo="https://tb.zbds.top/logo/黄龙.png" group-title="直播中国", 黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 tvg-name="2026-03-08 06:26:01" tvg-id="更新时间" tvg-logo="" group-title="更新时间", 2026-03-08 06:26:01
+#EXTINF:-1 tvg-name="2026-03-10 06:26:20" tvg-id="更新时间" tvg-logo="" group-title="更新时间", 2026-03-10 06:26:20
 https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4
